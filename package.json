@@ -1,0 +1,20 @@
+{
+  "name": "webpack-wordpress",
+  "version": "1.0.0",
+  "description": "config webpack wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anh sang dep trai",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.49.0"
+  },
+  "dependencies": {
+    "css-loader": "^6.2.0",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.2.1"
+  }
+}
